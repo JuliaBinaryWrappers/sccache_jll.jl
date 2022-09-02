@@ -1,0 +1,126 @@
+[[sccache]]
+arch = "aarch64"
+git-tree-sha1 = "6561014c5e2509f2c5ccf6129f99bd45b1152067"
+os = "macos"
+
+    [[sccache.download]]
+    sha256 = "cf03078330252e7d6e03483bee572c93473356f373f850e885b4f564704dc2af"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[sccache]]
+arch = "aarch64"
+git-tree-sha1 = "b6b1431ae551c1bd787ab9cfaa3304ba62c9dc1f"
+libc = "glibc"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "d5996d1892588143dbb22388fda6e4e6c37275878f27b4587d4128f3d33cea69"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.aarch64-linux-gnu.tar.gz"
+[[sccache]]
+arch = "aarch64"
+git-tree-sha1 = "4d9d9b5d90ba490ebb17c515066a29cd29ed9fe4"
+libc = "musl"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "4da637f910ce6b9379369886daeb09ffa03c7068263f269318ee80673a29c2bf"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.aarch64-linux-musl.tar.gz"
+[[sccache]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1d75c5e1457faafb9ba3a105fb54062aeefbcbcc"
+libc = "glibc"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "5751fcc8d35dab81790291230cb3c2dc8341c151631fc11836bb7978ff4aa823"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.armv6l-linux-gnueabihf.tar.gz"
+[[sccache]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "21758721c1aeecb18bac13e465349ef0a44502a5"
+libc = "musl"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "c81d59f4fb99ea710e9fb63005f67220e7ea027e08ed5ffe5b276ca8f6adcef8"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.armv6l-linux-musleabihf.tar.gz"
+[[sccache]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b0962a6f2b37263f0814b19cfab069cfa38ebf62"
+libc = "glibc"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "f61f636540c266f0bf866069f2daa6e0d7f62eca13ea680198d63e11ac5b8932"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[sccache]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdc46811624ed0eaf39d78ca6f5f83306ecccddc"
+libc = "musl"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "34c515e399721bf12890296540007af822b4064c64487d206ca80d3bd2de2b3d"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.armv7l-linux-musleabihf.tar.gz"
+[[sccache]]
+arch = "i686"
+git-tree-sha1 = "6667a3307b447c4534f97dac2b6cc9f08ccbddcf"
+libc = "glibc"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "491c3e78af241a610539b02e92a4c2ab7462b7acc99d1f53e97c252f0490ca32"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.i686-linux-gnu.tar.gz"
+[[sccache]]
+arch = "i686"
+git-tree-sha1 = "123b43dc3e3d530197636eb0529090a9c1568e58"
+libc = "musl"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "eed2ae9ef9728a862234cbab3aac9fc21d93a1a6a166cfeeb7a765da3c70336f"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.i686-linux-musl.tar.gz"
+[[sccache]]
+arch = "x86_64"
+git-tree-sha1 = "accb8018dd0af53176f68c8844fab450fa0db08e"
+os = "macos"
+
+    [[sccache.download]]
+    sha256 = "dad0c040902ac8b2023645b49b7a5146daa524eefd67194b4bfa3fff21262b0f"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[sccache]]
+arch = "x86_64"
+git-tree-sha1 = "9c335bcf91ea84c182a9da05c6e290e917189039"
+libc = "glibc"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "3dd7b5f3c9e5e70fa5511df055bd5378faae8b5e26004dd6165b23992f96db51"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.x86_64-linux-gnu.tar.gz"
+[[sccache]]
+arch = "x86_64"
+git-tree-sha1 = "6f51a07b53e0a2a34c2731719751db66f3f883fb"
+libc = "musl"
+os = "linux"
+
+    [[sccache.download]]
+    sha256 = "3bf17d6bbf2ad3db19ffcc9a3be401576e14f3ebadd6128ee39acf70d9305c94"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.x86_64-linux-musl.tar.gz"
+[[sccache]]
+arch = "x86_64"
+git-tree-sha1 = "cd28a6fa89545eaa38c7289f3e569f4b9caaece7"
+os = "freebsd"
+
+    [[sccache.download]]
+    sha256 = "a4d599e7d86a628b5311b387ffd410cc108718f140cc7e5c63d1c91d809b6d2d"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+[[sccache]]
+arch = "x86_64"
+git-tree-sha1 = "16b327ea4693211313fd8a317571636e1f555236"
+os = "windows"
+
+    [[sccache.download]]
+    sha256 = "8744f721395ec3a660fab11dc3d36a72fa1f5ca612512e5fa8dff177d46f966a"
+    url = "https://github.com/JuliaBinaryWrappers/sccache_jll.jl/releases/download/sccache-v0.3.0+0/sccache.v0.3.0.x86_64-w64-mingw32.tar.gz"
